@@ -169,6 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
 #vscode settings
 .vscode/
+=======
+>>>>>>> 798f2f455cbacb081ec57c9a8832831bf9cd7a43
